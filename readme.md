@@ -12,7 +12,6 @@ pip install h5py
 pip install pillow
 
 ```
--------------------------------
 ```
 pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
 ```
@@ -24,6 +23,9 @@ wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coc
 After Installation place the image for testing with the name "image.jpg"
 ------------------------------
 Now Run ` python main.py ` without the quotes.<br />
+
+-----------------------------
+
 
 Refer for more info :- <br />
 Source : https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
