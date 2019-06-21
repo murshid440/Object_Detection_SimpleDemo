@@ -1,6 +1,6 @@
 Install the following depencies one by one which is not already installed before proceeding.
 ------------------------------
-sudo apt-get install python3
+sudo apt-get install python3 /n
 pip install tensorflow
 pip install opencv-python
 pip install keras
