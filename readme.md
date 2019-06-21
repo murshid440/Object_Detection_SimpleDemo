@@ -29,6 +29,6 @@ Now Run ` python main.py ` without the quotes.<br />
 
 
 Refer for more info :- <br />
-https://github.com/murshid440/ImageAI
+https://github.com/murshid440/ImageAI<br />
 https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
 
