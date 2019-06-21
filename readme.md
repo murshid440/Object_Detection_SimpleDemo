@@ -16,3 +16,7 @@ wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coc
 After Installation place the image for testing with the name "image.jpg"
 ------------------------------
 Now Run ' python main.py ' without the quotes.
+
+Refer for more info :- 
+Source : https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
+
