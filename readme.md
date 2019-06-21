@@ -8,8 +8,8 @@ pip install keras`<br />
 pip install matplotlib<br />
 pip install numpy<br />
 pip install scipy<br />
-pip install h5py<br />
-pip install pillow<br />
+pip install h5py
+pip install pillow
 ```
 pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
 ------------------------------
