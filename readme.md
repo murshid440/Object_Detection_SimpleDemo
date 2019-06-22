@@ -1,4 +1,4 @@
-Install the following depencies one by one which is not already installed before proceeding.
+Install the following depencies one by one (if not previously installed) before proceeding.
 ------------------------------
 ``` 
 sudo apt-get install python3
@@ -21,14 +21,14 @@ wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coc
 
 ```
 ------------------------------
-After Installation place the image for testing with the name "image.jpg"
+Rename the image to be tested to "image.jpg"
 ------------------------------
 Now Run ` python main.py ` without the quotes.<br />
 
 -----------------------------
 
 
-Refer for more info :- <br />
+for more info, refer :- <br />
 https://github.com/murshid440/ImageAI<br />
 https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
 
